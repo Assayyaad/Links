@@ -1,0 +1,27 @@
+[
+  {
+    "name": "YouTube",
+    "url": "https://www.youtube.com/@nabil_alsaiad",
+    "icon": "ri:youtube-fill"
+  },
+  {
+    "name": "itch.io",
+    "url": "https://nabil-alsaiad.itch.io",
+    "icon": "simple-icons:itchdotio"
+  },
+  {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/in/nabil-alsaiad",
+    "icon": "ri:linkedin-fill"
+  },
+  {
+    "name": "𝕏",
+    "url": "https://x.com/nabil_alsaiad",
+    "icon": "ri:twitter-x-fill"
+  },
+  {
+    "name": "GitHub",
+    "url": "https://github.com/nabil-alsaiad",
+    "icon": "ri:github-fill"
+  }
+]

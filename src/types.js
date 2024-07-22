@@ -5,7 +5,7 @@ export {}
  * @property {string} name
  * @property {string} url
  * @property {string} icon
- * @property {string} [colour]
+ * @property {string} [color]
  */
 
 /**

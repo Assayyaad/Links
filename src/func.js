@@ -6,7 +6,7 @@
  * @param {LinkIcon} data
  * @returns {Promise<HTMLAnchorElement>}
  */
-export async function toLinkIcon({ name, url, icon, colour }) {
+export async function toLinkIcon({ name, url, icon, color }) {
   const a = document.createElement('a')
   a.className = 'brand'
   a.href = url
@@ -16,11 +16,11 @@ export async function toLinkIcon({ name, url, icon, colour }) {
   const span = document.createElement('span')
   span.className = 'iconify-inline'
 
-  if (colour) span.style.color = colour
+  if (color) span.style.color = color
   else {
     const res = await fetch('../data/default.json')
-    const { colour } = await res.json()
-    span.style.color = colour
+    const { color } = await res.json()
+    span.style.color = color
   }
 
   span.setAttribute('data-icon', icon)

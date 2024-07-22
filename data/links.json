@@ -5,6 +5,57 @@
     "tag": "مجاني"
   },
   {
+    "category": "قنوات",
+    "items": [
+      {
+        "category": "WhatsApp",
+        "items": [
+          {
+            "name": "فلسطين حرة | Free Palestine",
+            "url": "https://whatsapp.com/channel/0029VairVsg35fM05XFbWU1K"
+          },
+          {
+            "name": "زَادَتْهُمْ إِيمَٰنًا",
+            "url": "https://whatsapp.com/channel/0029VajhWcTLtOj8sR7UZj1L"
+          },
+          {
+            "name": "تطوير الألعاب",
+            "url": "https://whatsapp.com/channel/0029VaeVPEtHQbS2NsA8Vf2i"
+          },
+          {
+            "name": "لنتعلم 日本語",
+            "url": "https://whatsapp.com/channel/0029VaemgVDDOQIOjEj13w3j"
+          },
+          {
+            "name": "القناة الشخصية",
+            "url": "https://whatsapp.com/channel/0029VadsAOu4SpkB9AAfB72f"
+          }
+        ]
+      },
+      {
+        "category": "Telegram",
+        "items": [
+          {
+            "name": "زَادَتْهُمْ إِيمَٰنًا",
+            "url": "https://t.me/zadathum_imana"
+          },
+          {
+            "name": "تطوير الألعاب",
+            "url": "https://t.me/tatwir_alaab"
+          },
+          {
+            "name": "لنتعلم 日本語",
+            "url": "https://t.me/linataallam_nihongo"
+          },
+          {
+            "name": "القناة الشخصية",
+            "url": "https://t.me/assayyaad_news"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "category": "تواصل",
     "items": [
       {

@@ -19,11 +19,6 @@
             "name": "WhatsApp",
             "url": "https://wa.me/+966536700116",
             "icon": "fa6-brands:whatsapp"
-          },
-          {
-            "name": "Line",
-            "url": "https://line.me/ti/p/LEj9Uclc_6",
-            "icon": "fa6-brands:line"
           }
         ]
       },
@@ -34,11 +29,6 @@
             "name": "Discord",
             "url": "https://discordapp.com/users/734365620543422555",
             "icon": "fa6-brands:discord"
-          },
-          {
-            "name": "Guilded",
-            "url": "https://guilded.gg/u/NabilAlsaiad",
-            "icon": "fa6-brands:guilded"
           },
           {
             "name": "Reddit",
@@ -53,59 +43,34 @@
     "category": "تقديم محتوى",
     "items": [
       {
-        "category": "نصوص",
-        "items": [
-          {
-            "name": "LinkedIn",
-            "url": "https://linkedin.com/in/nabil-alsaiad",
-            "icon": "fa6-brands:linkedin"
-          },
-          {
-            "name": "𝕏/Twitter",
-            "url": "https://x.com/nabil_alsaiad",
-            "icon": "fa6-brands:x-twitter"
-          },
-          {
-            "name": "Mastodon",
-            "url": "https://mastodon.social/@nabil_alsaiad",
-            "icon": "fa6-brands:mastodon"
-          },
-          {
-            "name": "Threads",
-            "url": "https://threads.net/@nabil_alsaiad",
-            "icon": "fa6-brands:threads"
-          },
-          {
-            "name": "Facebook",
-            "url": "https://facebook.com/nabilalsaiad1",
-            "icon": "fa6-brands:facebook"
-          },
-          {
-            "name": "Tumblr",
-            "url": "https://tumblr.com/nabil-alsaiad",
-            "icon": "fa6-brands:tumblr"
-          }
-        ]
+        "name": "LinkedIn",
+        "url": "https://linkedin.com/in/nabil-alsaiad",
+        "icon": "fa6-brands:linkedin"
       },
       {
-        "category": "مقاطع",
-        "items": [
-          {
-            "name": "YouTube",
-            "url": "https://youtube.com/@nabil_alsaiad",
-            "icon": "fa6-brands:youtube"
-          },
-          {
-            "name": "Instagram",
-            "url": "https://instagram.com/nabil_alsaiad",
-            "icon": "fa6-brands:instagram"
-          },
-          {
-            "name": "TikTok",
-            "url": "https://tiktok.com/@nabil_alsaiad",
-            "icon": "fa6-brands:tiktok"
-          }
-        ]
+        "name": "𝕏/Twitter",
+        "url": "https://x.com/nabil_alsaiad",
+        "icon": "fa6-brands:x-twitter"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://youtube.com/@nabil_alsaiad",
+        "icon": "fa6-brands:youtube"
+      }
+    ]
+  },
+  {
+    "category": "أسئلة وأجوبة",
+    "items": [
+      {
+        "name": "Quora",
+        "url": "https://ar.quora.com/profile/Nabil-Alsaiad",
+        "icon": "fa6-brands:quora"
+      },
+      {
+        "name": "Tellonym",
+        "url": "https://tellonym.me/nabilalsaiad",
+        "icon": "arcticons:tellonym"
       }
     ]
   },
@@ -113,38 +78,18 @@
     "category": "تعليم",
     "items": [
       {
-        "category": "أسئلة وأجوبة",
-        "items": [
-          {
-            "name": "Quora",
-            "url": "https://ar.quora.com/profile/Nabil-Alsaiad",
-            "icon": "fa6-brands:quora"
-          },
-          {
-            "name": "Tellonym",
-            "url": "https://tellonym.me/nabilalsaiad",
-            "icon": "arcticons:tellonym"
-          }
-        ]
+        "name": "Quizlet",
+        "url": "https://quizlet.com/user/Nabil_Alsaiad/folders",
+        "icon": "arcticons:quizlet"
       },
       {
-        "category": "حفظ وإختبارات",
-        "items": [
-          {
-            "name": "Quizlet",
-            "url": "https://quizlet.com/user/Nabil_Alsaiad/folders",
-            "icon": "arcticons:quizlet"
-          },
-          {
-            "name": "Quizziz",
-            "url": "https://quizizz.com/profile/63d4bccf4aed8b001de712af"
-          },
-          {
-            "name": "Kahoot",
-            "url": "https://create.kahoot.it/profiles/d9bd328d-1fef-4ed2-abd8-7f103037b011",
-            "icon": "simple-icons:kahoot"
-          }
-        ]
+        "name": "Quizziz",
+        "url": "https://quizizz.com/profile/63d4bccf4aed8b001de712af"
+      },
+      {
+        "name": "Kahoot",
+        "url": "https://create.kahoot.it/profiles/d9bd328d-1fef-4ed2-abd8-7f103037b011",
+        "icon": "simple-icons:kahoot"
       }
     ]
   },
@@ -164,10 +109,6 @@
       {
         "name": "New Grounds",
         "url": "https://nabilalsaiad.newgrounds.com"
-      },
-      {
-        "name": "Nine66",
-        "url": "https://nine66.world/members/nabil_alsaiad"
       },
       {
         "name": "Global Game Jam",
@@ -214,21 +155,6 @@
         "icon": "fa6-brands:hackerrank"
       },
       {
-        "name": "Codingame",
-        "url": "https://codingame.com/profile/c76e910d186faa93e6d05766fe135ba36322535",
-        "icon": "simple-icons:codingame"
-      },
-      {
-        "name": "Code Wars",
-        "url": "https://codewars.com/users/Nabil-Alsaiad",
-        "icon": "simple-icons:codewars"
-      },
-      {
-        "name": "Leet Code",
-        "url": "https://leetcode.com/u/Nabil-Alsaiad",
-        "icon": "simple-icons:leetcode"
-      },
-      {
         "name": "سطر",
         "url": "https://profile.satr.codes/nabil_alsaiad/public"
       }
@@ -251,55 +177,6 @@
         "name": "Sketchfab",
         "url": "https://sketchfab.com/nabil_alsaiad",
         "icon": "simple-icons:sketchfab"
-      }
-    ]
-  },
-  {
-    "category": "جيمنج",
-    "items": [
-      {
-        "name": "Steam",
-        "url": "https://steamcommunity.com/id/Nabil_Alsaiad",
-        "icon": "fa6-brands:steam"
-      },
-      {
-        "name": "Epic Games",
-        "url": "https://store.epicgames.com/en-US/u/9f209c886ed0432ea98545473e202f6c",
-        "icon": "simple-icons:epicgames"
-      },
-      {
-        "name": "Battle Net",
-        "text": "Nabil#21994",
-        "icon": "fa6-brands:battle-net"
-      },
-      {
-        "name": "League of Legends",
-        "text": "NabilAlsaiad1",
-        "icon": ""
-      },
-      {
-        "name": "Riot Games",
-        "text": "Nabil Alsaiad#001",
-        "icon": ""
-      },
-      {
-        "name": "Medal",
-        "url": "https://medal.tv/u/nabil_alsaiad",
-        "icon": "arcticons:medal-tv"
-      },
-      {
-        "name": "Gamer Profiles",
-        "url": "https://gamerprofiles.com/invite/ZzXV"
-      }
-    ]
-  },
-  {
-    "category": "آخر",
-    "items": [
-      {
-        "name": "MonkeyType",
-        "url": "https://monkeytype.com/profile/nabil_alsaiad",
-        "icon": "simple-icons:monkeytype"
       }
     ]
   }

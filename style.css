@@ -255,6 +255,12 @@ summary {
 .col.link {
   position: relative;
 }
+section details section details {
+  padding-right: 100px;
+}
+section details section details section details {
+  padding-right: 200px;
+}
 footer {
   margin-top: 0.5em;
   margin-bottom: 2em;

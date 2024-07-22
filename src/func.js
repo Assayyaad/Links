@@ -51,19 +51,12 @@ export async function toLinkCategory(data) {
   section.appendChild(details)
 
   for (let j = 0; j < items.length; j++) {
-    const data = items[j]
+    const item = items[j]
     let el
 
-    if (isCategory(data)) {
-      // @ts-ignore
-      el = await toLinkCategory(data)
-      details.appendChild(el)
-      continue
-    } else {
-      // @ts-ignore
-      el = await toLinkButton(data)
-      details.appendChild(el)
-    }
+    if (isCategory(item)) el = await toLinkCategory(item)
+    else el = await toLinkButton(item)
+
     details.appendChild(el)
   }
 

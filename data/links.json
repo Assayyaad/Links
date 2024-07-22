@@ -171,43 +171,69 @@
     "category": "برمجة",
     "items": [
       {
-        "name": "Wakatime",
+        "category": "مشاريع",
+        "items": [
+          {
+            "name": "Wakatime",
             "url": "https://wakatime.com/@assayyaad",
-        "icon": "simple-icons:wakatime"
-      },
-      {
-        "name": "Github",
+            "icon": "simple-icons:wakatime"
+          },
+          {
+            "name": "Github",
             "url": "https://github.com/assayyaad",
-        "icon": "fa6-brands:github"
+            "icon": "fa6-brands:github"
+          },
+          {
+            "name": "npm",
+            "url": "https://npmjs.com/~nabil_alsaiad",
+            "icon": "simple-icons:npm"
+          },
+          {
+            "name": "jsr",
+            "url": "https://jsr.io/user/4e67ad39-f242-489c-a307-ad57de654359",
+            "icon": "simple-icons:jsr"
+          },
+
+          {
+            "name": "Paste Bin",
+            "url": "https://pastebin.com/u/Nabil_Alsaiad",
+            "icon": "fa6-brands:pastebin"
+          }
+        ]
       },
       {
-        "name": "Solo Learn",
-        "url": "https://sololearn.com/profile/17032869",
-        "icon": "simple-icons:sololearn"
-      },
-      {
-        "name": "Free Code Camp",
-        "url": "https://freecodecamp.org/Assayyaad",
-        "icon": "simple-icons:freecodecamp"
-      },
-      {
-        "name": "Exercism",
-        "url": "https://exercism.org/profiles/Assayyaad",
-        "icon": "simple-icons:exercism"
-      },
-      {
-        "name": "Codecademy",
-        "url": "https://codecademy.com/profiles/Assayyaad",
-        "icon": "simple-icons:codecademy"
-      },
-      {
-        "name": "HackerRank",
-        "url": "https://hackerrank.com/profile/Assayyaad",
-        "icon": "fa6-brands:hackerrank"
-      },
-      {
-        "name": "سطر",
-        "url": "https://profile.satr.codes/assayyaad/public"
+        "category": "تدريب",
+        "items": [
+          {
+            "name": "Solo Learn",
+            "url": "https://sololearn.com/profile/17032869",
+            "icon": "simple-icons:sololearn"
+          },
+          {
+            "name": "Free Code Camp",
+            "url": "https://freecodecamp.org/Assayyaad",
+            "icon": "simple-icons:freecodecamp"
+          },
+          {
+            "name": "Exercism",
+            "url": "https://exercism.org/profiles/Assayyaad",
+            "icon": "simple-icons:exercism"
+          },
+          {
+            "name": "Codecademy",
+            "url": "https://codecademy.com/profiles/Assayyaad",
+            "icon": "simple-icons:codecademy"
+          },
+          {
+            "name": "HackerRank",
+            "url": "https://hackerrank.com/profile/Assayyaad",
+            "icon": "fa6-brands:hackerrank"
+          },
+          {
+            "name": "سطر",
+            "url": "https://profile.satr.codes/assayyaad/public"
+          }
+        ]
       }
     ]
   },

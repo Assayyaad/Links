@@ -1,27 +1,27 @@
 [
   {
     "name": "YouTube",
-    "url": "https://www.youtube.com/@nabil_alsaiad",
+    "url": "https://youtube.com/@assayyaad",
     "icon": "ri:youtube-fill"
   },
   {
     "name": "itch.io",
-    "url": "https://nabil-alsaiad.itch.io",
+    "url": "https://assayyaad.itch.io",
     "icon": "simple-icons:itchdotio"
   },
   {
     "name": "LinkedIn",
-    "url": "https://www.linkedin.com/in/nabil-alsaiad",
+    "url": "https://linkedin.com/in/assayyaad",
     "icon": "ri:linkedin-fill"
   },
   {
     "name": "𝕏",
-    "url": "https://x.com/nabil_alsaiad",
+    "url": "https://x.com/assayyaad",
     "icon": "ri:twitter-x-fill"
   },
   {
     "name": "GitHub",
-    "url": "https://github.com/nabil-alsaiad",
+    "url": "https://github.com/assayyaad",
     "icon": "ri:github-fill"
   }
 ]

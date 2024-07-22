@@ -12,7 +12,7 @@
         "items": [
           {
             "name": "Telegram",
-            "url": "https://t.me/nabil_alsaiad",
+            "url": "https://t.me/assayyaad",
             "icon": "fa6-brands:telegram"
           },
           {
@@ -44,17 +44,17 @@
     "items": [
       {
         "name": "LinkedIn",
-        "url": "https://linkedin.com/in/nabil-alsaiad",
+        "url": "https://linkedin.com/in/assayyaad",
         "icon": "fa6-brands:linkedin"
       },
       {
         "name": "𝕏/Twitter",
-        "url": "https://x.com/nabil_alsaiad",
+        "url": "https://x.com/assayyaad",
         "icon": "fa6-brands:x-twitter"
       },
       {
         "name": "YouTube",
-        "url": "https://youtube.com/@nabil_alsaiad",
+        "url": "https://youtube.com/@assayyaad",
         "icon": "fa6-brands:youtube"
       }
     ]
@@ -64,12 +64,12 @@
     "items": [
       {
         "name": "Quora",
-        "url": "https://ar.quora.com/profile/Nabil-Alsaiad",
+        "url": "https://ar.quora.com/profile/assayyaad",
         "icon": "fa6-brands:quora"
       },
       {
         "name": "Tellonym",
-        "url": "https://tellonym.me/nabilalsaiad",
+        "url": "https://tellonym.me/assayyaad",
         "icon": "arcticons:tellonym"
       }
     ]
@@ -79,7 +79,7 @@
     "items": [
       {
         "name": "Quizlet",
-        "url": "https://quizlet.com/user/Nabil_Alsaiad/folders",
+        "url": "https://quizlet.com/user/Assayyaad/folders",
         "icon": "arcticons:quizlet"
       },
       {
@@ -98,12 +98,12 @@
     "items": [
       {
         "name": "itch.io",
-        "url": "https://nabil-alsaiad.itch.io",
+        "url": "https://assayyaad.itch.io",
         "icon": "fa6-brands:itch-io"
       },
       {
         "name": "Game Jolt",
-        "url": "https://gamejolt.com/@Nabil_Alsaiad",
+        "url": "https://gamejolt.com/@assayyaad",
         "icon": "simple-icons:gamejolt"
       },
       {
@@ -121,12 +121,12 @@
     "items": [
       {
         "name": "Wakatime",
-        "url": "https://wakatime.com/@Nabil_Alsaiad",
+            "url": "https://wakatime.com/@assayyaad",
         "icon": "simple-icons:wakatime"
       },
       {
         "name": "Github",
-        "url": "https://github.com/nabil-alsaiad",
+            "url": "https://github.com/assayyaad",
         "icon": "fa6-brands:github"
       },
       {
@@ -136,27 +136,27 @@
       },
       {
         "name": "Free Code Camp",
-        "url": "https://freecodecamp.org/Nabil_Alsaiad",
+        "url": "https://freecodecamp.org/Assayyaad",
         "icon": "simple-icons:freecodecamp"
       },
       {
         "name": "Exercism",
-        "url": "https://exercism.org/profiles/Nabil-Alsaiad",
+        "url": "https://exercism.org/profiles/Assayyaad",
         "icon": "simple-icons:exercism"
       },
       {
         "name": "Codecademy",
-        "url": "https://codecademy.com/profiles/Nabil_Alsaiad",
+        "url": "https://codecademy.com/profiles/Assayyaad",
         "icon": "simple-icons:codecademy"
       },
       {
         "name": "HackerRank",
-        "url": "https://hackerrank.com/profile/Nabil_Alsaiad",
+        "url": "https://hackerrank.com/profile/Assayyaad",
         "icon": "fa6-brands:hackerrank"
       },
       {
         "name": "سطر",
-        "url": "https://profile.satr.codes/nabil_alsaiad/public"
+        "url": "https://profile.satr.codes/assayyaad/public"
       }
     ]
   },
@@ -165,17 +165,17 @@
     "items": [
       {
         "name": "Artstation",
-        "url": "https://artstation.com/nabil_alsaiad",
+        "url": "https://artstation.com/assayyaad",
         "icon": "fa6-brands:artstation"
       },
       {
         "name": "Behance",
-        "url": "https://behance.net/nabil_alsaiad",
+        "url": "https://behance.net/assayyaad",
         "icon": "fa6-brands:behance"
       },
       {
         "name": "Sketchfab",
-        "url": "https://sketchfab.com/nabil_alsaiad",
+        "url": "https://sketchfab.com/assayyaad",
         "icon": "simple-icons:sketchfab"
       }
     ]

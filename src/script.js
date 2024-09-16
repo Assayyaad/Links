@@ -1,17 +1,13 @@
+/** @import { LinkButton, LinkCategory, LinkIcon } from './types.js' */
 import { toLinkIcon, toLinkCategory } from './func.js'
 
 fetch('data/social.json')
   .then((res) => res.json())
-  .then(async (data) => {
+  .then(async (/** @type {LinkIcon[]} */ linkIcons) => {
     const container = document.querySelector('.nav-center')
     if (!container) throw new Error('No container found for social links')
 
-    const promises = []
-    for (let i = 0; i < data.length; i++) {
-      promises.push(toLinkIcon(data[i]))
-    }
-
-    const elArr = await Promise.all(promises)
+    const elArr = await Promise.all(linkIcons.map(toLinkIcon))
     for (let i = 0; i < elArr.length; i++) {
       container.appendChild(elArr[i])
     }
@@ -20,16 +16,11 @@ fetch('data/social.json')
 
 fetch('data/links.json')
   .then((res) => res.json())
-  .then(async (data) => {
+  .then(async (/** @type {(LinkCategory | LinkButton)[]} */ linkItems) => {
     const container = document.querySelector('main')
     if (!container) throw new Error('No container found for button links')
 
-    const promises = []
-    for (let i = 0; i < data.length; i++) {
-      promises.push(toLinkCategory(data[i]))
-    }
-
-    const elArr = await Promise.all(promises)
+    const elArr = await Promise.all(linkItems.map(toLinkCategory))
     for (let i = 0; i < elArr.length; i++) {
       container.appendChild(elArr[i])
     }

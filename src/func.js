@@ -1,6 +1,4 @@
-/** @typedef {import('./types.js').LinkIcon} LinkIcon */
-/** @typedef {import('./types.js').LinkCategory} LinkCategory */
-/** @typedef {import('./types.js').LinkButton} LinkButton */
+/** @import { LinkButton, LinkCategory, LinkIcon } from './types.js' */
 
 /**
  * @param {LinkIcon} data
@@ -30,16 +28,14 @@ export async function toLinkIcon({ name, url, icon, color }) {
 }
 
 /**
- * @param {LinkCategory|LinkButton} data
+ * @param {LinkCategory | LinkButton} data
  * @returns {Promise<HTMLElement>}
  */
 export async function toLinkCategory(data) {
   // @ts-ignore
   const { category, items } = data
-  if (!category) {
-    // @ts-ignore
-    return await toLinkButton(data)
-  }
+  // @ts-ignore
+  if (!category) return await toLinkButton(data)
 
   const section = document.createElement('section')
   const details = document.createElement('details')
@@ -106,9 +102,7 @@ export async function toLinkButton({ name, url, text, icon, tag }) {
     b.addEventListener('click', () => {
       navigator.clipboard
         .writeText(text)
-        .then(() => {
-          alert(`تم النسخ إلى الحافظة "${text}"`)
-        })
+        .then(() => alert(`تم النسخ إلى الحافظة "${text}"`))
         .catch(console.error)
     })
 

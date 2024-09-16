@@ -11,11 +11,11 @@ export {}
 /**
  * @typedef {object} LinkCategory
  * @property {string} category
- * @property {(LinkButton|LinkCategory)[]} items
+ * @property {(LinkButton | LinkCategory)[]} items
  */
 
 /**
- * @typedef {LinkButton1|LinkButton2} LinkButton
+ * @typedef {LinkButton1 | LinkButton2} LinkButton
  */
 
 /**

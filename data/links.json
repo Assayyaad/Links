@@ -8,37 +8,8 @@
     "category": "قنوات",
     "items": [
       {
-        "category": "WhatsApp",
-        "items": [
-          {
-            "name": "فلسطين حرة | Free Palestine",
-            "url": "https://whatsapp.com/channel/0029VairVsg35fM05XFbWU1K"
-          },
-          {
-            "name": "زَادَتْهُمْ إِيمَٰنًا",
-            "url": "https://whatsapp.com/channel/0029VajhWcTLtOj8sR7UZj1L"
-          },
-          {
-            "name": "تطوير الألعاب",
-            "url": "https://whatsapp.com/channel/0029VaeVPEtHQbS2NsA8Vf2i"
-          },
-          {
-            "name": "لنتعلم 日本語",
-            "url": "https://whatsapp.com/channel/0029VaemgVDDOQIOjEj13w3j"
-          },
-          {
-            "name": "القناة الشخصية",
-            "url": "https://whatsapp.com/channel/0029VadsAOu4SpkB9AAfB72f"
-          }
-        ]
-      },
-      {
         "category": "Telegram",
         "items": [
-          {
-            "name": "زَادَتْهُمْ إِيمَٰنًا",
-            "url": "https://t.me/zadathum_imana"
-          },
           {
             "name": "تطوير الألعاب",
             "url": "https://t.me/tatwir_alaab"
@@ -52,6 +23,23 @@
             "url": "https://t.me/assayyaad_news"
           }
         ]
+      },
+      {
+        "category": "WhatsApp",
+        "items": [
+          {
+            "name": "تطوير الألعاب",
+            "url": "https://whatsapp.com/channel/0029VaeVPEtHQbS2NsA8Vf2i"
+          },
+          {
+            "name": "لنتعلم 日本語",
+            "url": "https://whatsapp.com/channel/0029VaemgVDDOQIOjEj13w3j"
+          },
+          {
+            "name": "القناة الشخصية",
+            "url": "https://whatsapp.com/channel/0029VadsAOu4SpkB9AAfB72f"
+          }
+        ]
       }
     ]
   },
@@ -59,34 +47,19 @@
     "category": "تواصل",
     "items": [
       {
-        "category": "خاص",
-        "items": [
-          {
-            "name": "Telegram",
-            "url": "https://t.me/assayyaad",
-            "icon": "fa6-brands:telegram"
-          },
-          {
-            "name": "WhatsApp",
-            "url": "https://wa.me/+966536700116",
-            "icon": "fa6-brands:whatsapp"
-          }
-        ]
+        "name": "Telegram",
+        "url": "https://t.me/assayyaad",
+        "icon": "fa6-brands:telegram"
       },
       {
-        "category": "عام",
-        "items": [
-          {
-            "name": "Discord",
-            "url": "https://discordapp.com/users/734365620543422555",
-            "icon": "fa6-brands:discord"
-          },
-          {
-            "name": "Reddit",
-            "url": "https://reddit.com/u/Nabil_Alsaiad",
-            "icon": "fa6-brands:reddit"
-          }
-        ]
+        "name": "WhatsApp",
+        "url": "https://wa.me/+966536700116",
+        "icon": "fa6-brands:whatsapp"
+      },
+      {
+        "name": "Discord",
+        "url": "https://discordapp.com/users/734365620543422555",
+        "icon": "fa6-brands:discord"
       }
     ]
   },
@@ -158,12 +131,16 @@
         "icon": "simple-icons:gamejolt"
       },
       {
-        "name": "New Grounds",
-        "url": "https://nabilalsaiad.newgrounds.com"
+        "name": "Global Game Jam",
+        "url": "https://globalgamejam.org/users/assayyaad"
       },
       {
-        "name": "Global Game Jam",
-        "url": "https://globalgamejam.org/users/nabilalsaiad"
+        "name": "Game Dev",
+        "url": "https://gamedev.net/assayyaad"
+      },
+      {
+        "name": "IndieDB",
+        "url": "https://indiedb.com/members/assayyaad"
       }
     ]
   },
@@ -193,11 +170,10 @@
             "url": "https://jsr.io/user/4e67ad39-f242-489c-a307-ad57de654359",
             "icon": "simple-icons:jsr"
           },
-
           {
             "name": "Paste Bin",
-            "url": "https://pastebin.com/u/Nabil_Alsaiad",
-            "icon": "fa6-brands:pastebin"
+            "url": "https://pastebin.com/u/Assayyaad",
+            "icon": "simple-icons:pastebin"
           }
         ]
       },

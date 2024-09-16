@@ -9,9 +9,7 @@
   "files.insertFinalNewline": true,
   "files.eol": "\n",
 
-  "[markdown]": {
-    "editor.defaultFormatter": "yzhang.markdown-all-in-one"
-  },
+  "[markdown]": { "editor.defaultFormatter": "yzhang.markdown-all-in-one" },
   "markdown.replaceSmartQuotes": true,
   "markdown.occurrencesHighlight.enabled": true,
   "markdown.extension.tableFormatter.normalizeIndentation": true,
@@ -51,33 +49,13 @@
     "opacity": 0
   },
   "todo-tree.highlights.customHighlight": {
-    "LOCK": {
-      "icon": "lock",
-      "foreground": "#00ff88"
-    },
-    "BUG": {
-      "icon": "bug",
-      "foreground": "#ff0000"
-    },
-    "FIX": {
-      "icon": "tools",
-      "foreground": "#ff8800"
-    },
-    "TODO": {
-      "icon": "check-circle",
-      "foreground": "#ffff00"
-    },
-    "BOOKMARK": {
-      "icon": "bookmark"
-    },
-    "NOTE": {
-      "icon": "comment",
-      "hideFromTree": true
-    },
-    "///": {
-      "foreground": "#3d4e3c",
-      "hideFromTree": true
-    }
+    "LOCK": { "icon": "lock", "foreground": "#00ff88" },
+    "BUG": { "icon": "bug", "foreground": "#ff0000" },
+    "FIX": { "icon": "tools", "foreground": "#ff8800" },
+    "TODO": { "icon": "check-circle", "foreground": "#ffff00" },
+    "BOOKMARK": { "icon": "bookmark" },
+    "NOTE": { "icon": "comment", "hideFromTree": true },
+    "///": { "foreground": "#3d4e3c", "hideFromTree": true }
   },
   "todo-tree.highlights.foregroundColourScheme": [],
   "todo-tree.highlights.backgroundColourScheme": []

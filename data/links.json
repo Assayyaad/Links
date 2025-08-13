@@ -1,7 +1,7 @@
 [
   {
     "name": "منهج تعليم اليابانية: لنتعلم 日本語",
-    "url": "https://jp.thealpha.pro",
+    "url": "https://jp.assayyaad.pro",
     "tag": "مجاني"
   },
   {
@@ -80,21 +80,6 @@
         "name": "YouTube",
         "url": "https://youtube.com/@assayyaad",
         "icon": "fa6-brands:youtube"
-      }
-    ]
-  },
-  {
-    "category": "أسئلة وأجوبة",
-    "items": [
-      {
-        "name": "Quora",
-        "url": "https://ar.quora.com/profile/assayyaad",
-        "icon": "fa6-brands:quora"
-      },
-      {
-        "name": "Tellonym",
-        "url": "https://tellonym.me/assayyaad",
-        "icon": "arcticons:tellonym"
       }
     ]
   },

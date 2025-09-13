@@ -1,8 +1,23 @@
 [
   {
-    "name": "منهج تعليم اليابانية: لنتعلم 日本語",
+    "name": "فضاء الألعاب",
+    "url": "https://direct.me/Tatwir_Alaab",
+    "tag": "تابع أخبار الصناعة"
+  },
+  {
+    "name": "مجتمع مطوري الألعاب SNG",
+    "url": "https://discord.gg/PbbJqwy6Pv",
+    "tag": "كون علاقات"
+  },
+  {
+    "name": "مركز لسان: 日本語",
     "url": "https://ja.lisan.center",
-    "tag": "مجاني"
+    "tag": "تعلم اليابانية"
+  },
+  {
+    "name": "قادة دسكورد",
+    "url": "https://links.disqada.org",
+    "tag": "برمج بوتك الخاص"
   },
   {
     "category": "قنوات",

@@ -16,7 +16,7 @@ export async function toLinkIcon({ name, url, icon, color }) {
 
   if (color) span.style.color = color
   else {
-    const res = await fetch('../data/default.json')
+    const res = await fetch('../data/theme.json')
     const { color } = await res.json()
     span.style.color = color
   }

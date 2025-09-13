@@ -1,43 +1,43 @@
 [
   {
     "name": "منهج تعليم اليابانية: لنتعلم 日本語",
-    "url": "https://jp.assayyaad.pro",
+    "url": "https://ja.lisan.center",
     "tag": "مجاني"
   },
   {
     "category": "قنوات",
     "items": [
       {
-        "category": "Telegram",
-        "items": [
-          {
-            "name": "تطوير الألعاب",
-            "url": "https://t.me/tatwir_alaab"
-          },
-          {
-            "name": "لنتعلم 日本語",
-            "url": "https://t.me/linataallam_nihongo"
-          },
-          {
-            "name": "القناة الشخصية",
-            "url": "https://t.me/assayyaad_news"
-          }
-        ]
-      },
-      {
         "category": "WhatsApp",
         "items": [
           {
-            "name": "تطوير الألعاب",
+            "name": "فضاء الألعاب",
             "url": "https://whatsapp.com/channel/0029VaeVPEtHQbS2NsA8Vf2i"
           },
           {
-            "name": "لنتعلم 日本語",
+            "name": "مركز لسان: اليابانية",
             "url": "https://whatsapp.com/channel/0029VaemgVDDOQIOjEj13w3j"
           },
           {
             "name": "القناة الشخصية",
             "url": "https://whatsapp.com/channel/0029VadsAOu4SpkB9AAfB72f"
+          }
+        ]
+      },
+      {
+        "category": "Telegram",
+        "items": [
+          {
+            "name": "فضاء الألعاب",
+            "url": "https://t.me/fada_alaab"
+          },
+          {
+            "name": "مركز لسان: اليابانية",
+            "url": "https://t.me/markaz_lisan_ja"
+          },
+          {
+            "name": "القناة الشخصية",
+            "url": "https://t.me/assayyaad_news"
           }
         ]
       }
@@ -47,9 +47,9 @@
     "category": "تواصل",
     "items": [
       {
-        "name": "Telegram",
-        "url": "https://t.me/assayyaad",
-        "icon": "fa6-brands:telegram"
+        "name": "Discord",
+        "url": "https://discordapp.com/users/734365620543422555",
+        "icon": "fa6-brands:discord"
       },
       {
         "name": "WhatsApp",
@@ -57,15 +57,20 @@
         "icon": "fa6-brands:whatsapp"
       },
       {
-        "name": "Discord",
-        "url": "https://discordapp.com/users/734365620543422555",
-        "icon": "fa6-brands:discord"
+        "name": "Telegram",
+        "url": "https://t.me/assayyaad",
+        "icon": "fa6-brands:telegram"
       }
     ]
   },
   {
     "category": "تقديم محتوى",
     "items": [
+      {
+        "name": "قبيلة",
+        "url": "https://qabilah.com/profile/assayyaad/professional-profile",
+        "icon": "game-icons:camel-head"
+      },
       {
         "name": "LinkedIn",
         "url": "https://linkedin.com/in/assayyaad",
@@ -139,6 +144,11 @@
             "name": "Wakatime",
             "url": "https://wakatime.com/@assayyaad",
             "icon": "simple-icons:wakatime"
+          },
+          {
+            "name": "GitLab",
+            "url": "https://gitlab.com/assayyaad",
+            "icon": "ri:gitlab-fill"
           },
           {
             "name": "Github",

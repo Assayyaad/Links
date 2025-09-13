@@ -6,8 +6,12 @@
   "editor.trimAutoWhitespace": true,
   "editor.tabSize": 2,
 
-  "files.insertFinalNewline": false,
   "files.eol": "\n",
+  "files.trimFinalNewlines": true,
+  "files.insertFinalNewline": false,
+
+  "[html]": { "editor.defaultFormatter": "vscode.html-language-features" },
+  "[css]": { "editor.defaultFormatter": "vscode.css-language-features" },
 
   "[markdown]": { "editor.defaultFormatter": "yzhang.markdown-all-in-one" },
   "markdown.replaceSmartQuotes": true,

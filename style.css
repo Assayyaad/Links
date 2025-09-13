@@ -440,27 +440,27 @@ section details section details section details summary::after {
   content: ' ▶▶▶';
 }
 
-section details[open] > summary::before {
+section details[open]>summary::before {
   content: '▼ ';
 }
 
-section details[open] > summary::after {
+section details[open]>summary::after {
   content: ' ▼';
 }
 
-section details section details[open] > summary::before {
+section details section details[open]>summary::before {
   content: '▼▼ ';
 }
 
-section details section details[open] > summary::after {
+section details section details[open]>summary::after {
   content: ' ▼▼';
 }
 
-section details section details section details[open] > summary::before {
+section details section details section details[open]>summary::before {
   content: '▼▼▼ ';
 }
 
-section details section details section details[open] > summary::after {
+section details section details section details[open]>summary::after {
   content: ' ▼▼▼';
 }
 
@@ -508,29 +508,30 @@ section details section details section details {
   }
 }
 
-.container > * {
+.container>* {
   animation: fadeInUp 0.6s ease-out;
   animation-fill-mode: both;
 }
 
-.container > *:nth-child(1) {
+.container>*:nth-child(1) {
   animation-delay: 0.1s;
 }
 
-.container > *:nth-child(2) {
+.container>*:nth-child(2) {
   animation-delay: 0.2s;
 }
 
-.container > *:nth-child(3) {
+.container>*:nth-child(3) {
   animation-delay: 0.3s;
 }
 
-.container > *:nth-child(4) {
+.container>*:nth-child(4) {
   animation-delay: 0.4s;
 }
 
 /* Subtle pulse animation for primary elements */
 @keyframes pulse {
+
   0%,
   100% {
     box-shadow: var(--shadow-light);

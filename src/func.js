@@ -89,7 +89,7 @@ export async function toLinkButton({ name, url, text, icon, tag }) {
 
     if (tag) {
       const tagSpan = document.createElement('span')
-      tagSpan.className = 'tag is-small bd-success text-success'
+      tagSpan.className = 'tag is-small'
       tagSpan.textContent = tag
 
       a.appendChild(tagSpan)
@@ -119,7 +119,7 @@ export async function toLinkButton({ name, url, text, icon, tag }) {
 
     if (tag) {
       const tagSpan = document.createElement('span')
-      tagSpan.className = 'tag is-small bd-success text-success'
+      tagSpan.className = 'tag is-small'
       tagSpan.textContent = tag
 
       b.appendChild(tagSpan)

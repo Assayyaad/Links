@@ -28,28 +28,34 @@
     "category": "قنوات",
     "items": [
       {
-        "category": "WhatsApp",
+        "category": "فضاء الألعاب",
+        "inline": true,
         "items": [
           {
-            "name": "فضاء الألعاب",
-            "url": "https://whatsapp.com/channel/0029VaeVPEtHQbS2NsA8Vf2i"
+            "name": "WhatsApp",
+            "url": "https://whatsapp.com/channel/0029VaeVPEtHQbS2NsA8Vf2i",
+            "icon": "fa6-brands:whatsapp"
           },
           {
-            "name": "مركز لسان: اليابانية",
-            "url": "https://whatsapp.com/channel/0029VaemgVDDOQIOjEj13w3j"
+            "name": "Telegram",
+            "url": "https://t.me/fada_alaab",
+            "icon": "fa6-brands:telegram"
           }
         ]
       },
       {
-        "category": "Telegram",
+        "category": "مركز لسان: اليابانية",
+        "inline": true,
         "items": [
           {
-            "name": "فضاء الألعاب",
-            "url": "https://t.me/fada_alaab"
+            "name": "WhatsApp",
+            "url": "https://whatsapp.com/channel/0029VaemgVDDOQIOjEj13w3j",
+            "icon": "fa6-brands:whatsapp"
           },
           {
-            "name": "مركز لسان: اليابانية",
-            "url": "https://t.me/markaz_lisan_ja"
+            "name": "Telegram",
+            "url": "https://t.me/markaz_lisan_ja",
+            "icon": "fa6-brands:telegram"
           }
         ]
       }

@@ -12,6 +12,7 @@ export {}
  * @typedef {object} LinkCategory
  * @property {string} category
  * @property {(LinkButton | LinkCategory)[]} items
+ * @property {boolean} [inline]
  */
 
 /**

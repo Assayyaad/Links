@@ -33,7 +33,7 @@ export async function toLinkIcon({ name, url, icon, color }) {
  */
 export async function toLinkCategory(data) {
   // @ts-ignore
-  const { category, items } = data
+  const { category, items, inline } = data
   // @ts-ignore
   if (!category) return await toLinkButton(data)
 
@@ -46,14 +46,36 @@ export async function toLinkCategory(data) {
   details.appendChild(summary)
   section.appendChild(details)
 
-  for (let j = 0; j < items.length; j++) {
-    const item = items[j]
-    let el
+  if (inline) {
+    // Create a flex container for inline display
+    const flexContainer = document.createElement('div')
+    flexContainer.style.display = 'flex'
+    flexContainer.style.flexWrap = 'wrap'
+    flexContainer.style.gap = '10px'
+    flexContainer.style.justifyContent = 'center'
 
-    if (isCategory(item)) el = await toLinkCategory(item)
-    else el = await toLinkButton(item)
+    for (let j = 0; j < items.length; j++) {
+      const item = items[j]
+      let el
 
-    details.appendChild(el)
+      if (isCategory(item)) el = await toLinkCategory(item)
+      else el = await toLinkButton(item)
+
+      flexContainer.appendChild(el)
+    }
+
+    details.appendChild(flexContainer)
+  } else {
+    // Default vertical layout
+    for (let j = 0; j < items.length; j++) {
+      const item = items[j]
+      let el
+
+      if (isCategory(item)) el = await toLinkCategory(item)
+      else el = await toLinkButton(item)
+
+      details.appendChild(el)
+    }
   }
 
   return section

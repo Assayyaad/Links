@@ -82,6 +82,7 @@ export async function toLinkButton({ name, url, text, icon, tag }) {
       span.setAttribute('data-icon', icon)
 
       a.appendChild(span)
+      a.appendChild(document.createTextNode(' '))
     }
 
     const textNode = document.createTextNode(name)
@@ -112,6 +113,7 @@ export async function toLinkButton({ name, url, text, icon, tag }) {
       span.setAttribute('data-icon', icon)
 
       b.appendChild(span)
+      b.appendChild(document.createTextNode(' '))
     }
 
     const textNode = document.createTextNode(name)
